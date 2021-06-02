@@ -2,7 +2,7 @@
 <h3 align="left">I love building web apps and I don't like pretentious headlines 😄</h3>
 <p align="left"> <a href="https://twitter.com/vphilot" target="blank"><img src="https://img.shields.io/twitter/follow/vphilot?logo=twitter&style=for-the-badge" alt="vphilot" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vphilot" alt="vphilot" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vphilot&theme=dracula&title=Commit,MultiLanguage,Repositories" alt="vphilot" /></a> </p>
 
 - 🔭 I’m currently working on [CreativeLayer](https://www.creativelayer.com)
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **vphilot@gmail.com**
 
-### Blogs posts
+### 📕 Latest bogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Using TypeScript and Composition API with Nuxt and Netlify CMS](https://philot.ca//2021/05/21/nuxt-and-netlify-cms-with-typescript-and-composition-api.html)
 - [Safari's default 'new tab' is so bad I built my own with Svelte and AirTable](https://philot.ca//2021/01/05/building-a-new-start-page-with-svelte.html)
@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vphilot&show_icons=true&locale=en&layout=compact" alt="vphilot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vphilot&show_icons=true&locale=en" alt="vphilot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vphilot&count_private=true&show_icons=true&locale=en" alt="vphilot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vphilot&" alt="vphilot" /></p>
