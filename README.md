@@ -17,10 +17,10 @@
 ### 📕 Latest bogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Using TypeScript and Composition API with Nuxt and Netlify CMS](https://philot.ca//2021/05/21/nuxt-and-netlify-cms-with-typescript-and-composition-api.html)
-- [Safari's default 'new tab' is so bad I built my own with Svelte and AirTable](https://philot.ca//2021/01/05/building-a-new-start-page-with-svelte.html)
-- [Fetching a DOM element's next sibling with Vanilla JavaScript](https://philot.ca//2020/08/18/javascript-get-element-next-sibling.html)
+- [Safari&#39;s default &#39;new tab&#39; is so bad I built my own with Svelte and AirTable](https://philot.ca//2021/01/05/building-a-new-start-page-with-svelte.html)
+- [Fetching a DOM element&#39;s next sibling with Vanilla JavaScript](https://philot.ca//2020/08/18/javascript-get-element-next-sibling.html)
 - [Building a simple Back to Top button trigger with CSS and JavaScript](https://philot.ca//2020/07/02/building-a-simple-back-to-top-button-trigger-with-css-and-javascript.html)
-- [HTML5 MP4 videos not working on iOS? Here's a fix.](https://philot.ca//2020/05/10/how-to-make-mp4-videos-work-on-ios.html)
+- [HTML5 MP4 videos not working on iOS? Here&#39;s a fix.](https://philot.ca//2020/05/10/how-to-make-mp4-videos-work-on-ios.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
