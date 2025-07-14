@@ -1,12 +1,11 @@
 <h1 align="left">Hi 👋, I'm Vinícius Philot</h1>
-<h3 align="left">I love building web apps and I don't like pretentious headlines 😄</h3>
 <p align="left"> <a href="https://twitter.com/vphilot" target="blank"><img src="https://img.shields.io/twitter/follow/vphilot?logo=twitter&style=for-the-badge" alt="vphilot" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vphilot&theme=dracula&title=Commit,MultiLanguage,Repositories" alt="vphilot" /></a> </p>
 
 - 👨‍💻 Some of my projects are available at [https://philot.ca](https://philot.ca)
 
-- 📝 I regularly write articles there too [https://philot.ca](https://philot.ca)
+- 📝 I <s>regularly</s almost never write articles there too [https://philot.ca](https://philot.ca)
 
 - 💬 Ask me about **React, Vue, TS, accessibility**
 
