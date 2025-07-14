@@ -4,7 +4,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://philot.ca](https://philot.ca)
 
-- 📝 I <s>regularly</s almost never write articles there too [https://philot.ca](https://philot.ca)
+- 📝 I <s>regularly</s> almost never write articles there too [https://philot.ca](https://philot.ca)
 
 - 💬 Ask me about **React, Vue, TS, accessibility**
 
