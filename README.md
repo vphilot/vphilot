@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Vinícius Philot</h1>
-<p align="left"> <a href="https://twitter.com/vphilot" target="blank"><img src="https://img.shields.io/twitter/follow/vphilot?logo=twitter&style=for-the-badge" alt="vphilot" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vphilot&theme=dracula&title=Commit,MultiLanguage,Repositories" alt="vphilot" /></a> </p>
 
